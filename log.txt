@@ -1,0 +1,5 @@
+2012-06-28 15:02:36,506 INFO  - Application Starting Up
+2012-06-28 15:02:36,519 INFO  - Starting Job: Dune Daily Job Summary Emails
+2012-06-28 15:02:36,532 DEBUG - Sending Email to email address: k_main_3@hotmail.com
+2012-06-28 15:02:36,546 INFO  - Ending Job: Dune Daily Job Summary Emails
+2012-06-28 15:02:36,547 INFO  - Application Ending
